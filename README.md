@@ -4,3 +4,6 @@ Teconlogias Front: Html5 + Bootstrap + Jinja
 Versionador: Git + Github
 Deploy: Paas render.com
 Desarrollado por: Gonzalez Francisco
+
+
+https://django-auth-crud-0uim.onrender.com/
